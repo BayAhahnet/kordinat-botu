@@ -1,0 +1,171 @@
+"Hesap1": {
+    "Sancak": {"x": 0, "y": 0},
+    "Yakamoz": {"x": 0, "y": 0},
+    "Avrasya": {"x": 0, "y": 0},
+    "Pruva": {"x": 0, "y": 0},
+    "Velana": {"x": 0, "y": 0},
+    "Flador": {"x": 0, "y": 0},
+    "Astra": {"x": 0, "y": 0}
+  },
+"Hesap1": {
+    "Sancak": {"x": 0, "y": 0},
+    "Yakamoz": {"x": 0, "y": 0},
+    "Avrasya": {"x": 0, "y": 0},
+    "Pruva": {"x": 0, "y": 0},
+    "Velana": {"x": 0, "y": 0},
+    "Flador": {"x": 0, "y": 0},
+    "Astra": {"x": 0, "y": 0}
+  },
+"Hesap1": {
+    "Sancak": {"x": 0, "y": 0},
+    "Yakamoz": {"x": 0, "y": 0},
+    "Avrasya": {"x": 0, "y": 0},
+    "Pruva": {"x": 0, "y": 0},
+    "Velana": {"x": 0, "y": 0},
+    "Flador": {"x": 0, "y": 0},
+    "Astra": {"x": 0, "y": 0}
+  },
+"Hesap1": {
+    "Sancak": {"x": 0, "y": 0},
+    "Yakamoz": {"x": 0, "y": 0},
+    "Avrasya": {"x": 0, "y": 0},
+    "Pruva": {"x": 0, "y": 0},
+    "Velana": {"x": 0, "y": 0},
+    "Flador": {"x": 0, "y": 0},
+    "Astra": {"x": 0, "y": 0}
+  },
+"Hesap1": {
+    "Sancak": {"x": 0, "y": 0},
+    "Yakamoz": {"x": 0, "y": 0},
+    "Avrasya": {"x": 0, "y": 0},
+    "Pruva": {"x": 0, "y": 0},
+    "Velana": {"x": 0, "y": 0},
+    "Flador": {"x": 0, "y": 0},
+    "Astra": {"x": 0, "y": 0}
+  },
+"Hesap1": {
+    "Sancak": {"x": 0, "y": 0},
+    "Yakamoz": {"x": 0, "y": 0},
+    "Avrasya": {"x": 0, "y": 0},
+    "Pruva": {"x": 0, "y": 0},
+    "Velana": {"x": 0, "y": 0},
+    "Flador": {"x": 0, "y": 0},
+    "Astra": {"x": 0, "y": 0}
+  },
+"Hesap1": {
+    "Sancak": {"x": 0, "y": 0},
+    "Yakamoz": {"x": 0, "y": 0},
+    "Avrasya": {"x": 0, "y": 0},
+    "Pruva": {"x": 0, "y": 0},
+    "Velana": {"x": 0, "y": 0},
+    "Flador": {"x": 0, "y": 0},
+    "Astra": {"x": 0, "y": 0}
+  },
+"Hesap1": {
+    "Sancak": {"x": 0, "y": 0},
+    "Yakamoz": {"x": 0, "y": 0},
+    "Avrasya": {"x": 0, "y": 0},
+    "Pruva": {"x": 0, "y": 0},
+    "Velana": {"x": 0, "y": 0},
+    "Flador": {"x": 0, "y": 0},
+    "Astra": {"x": 0, "y": 0}
+  },
+"Hesap1": {
+    "Sancak": {"x": 0, "y": 0},
+    "Yakamoz": {"x": 0, "y": 0},
+    "Avrasya": {"x": 0, "y": 0},
+    "Pruva": {"x": 0, "y": 0},
+    "Velana": {"x": 0, "y": 0},
+    "Flador": {"x": 0, "y": 0},
+    "Astra": {"x": 0, "y": 0}
+  },
+"Hesap1": {
+    "Sancak": {"x": 0, "y": 0},
+    "Yakamoz": {"x": 0, "y": 0},
+    "Avrasya": {"x": 0, "y": 0},
+    "Pruva": {"x": 0, "y": 0},
+    "Velana": {"x": 0, "y": 0},
+    "Flador": {"x": 0, "y": 0},
+    "Astra": {"x": 0, "y": 0}
+  },
+"Hesap1": {
+    "Sancak": {"x": 0, "y": 0},
+    "Yakamoz": {"x": 0, "y": 0},
+    "Avrasya": {"x": 0, "y": 0},
+    "Pruva": {"x": 0, "y": 0},
+    "Velana": {"x": 0, "y": 0},
+    "Flador": {"x": 0, "y": 0},
+    "Astra": {"x": 0, "y": 0}
+  },
+"Hesap1": {
+    "Sancak": {"x": 0, "y": 0},
+    "Yakamoz": {"x": 0, "y": 0},
+    "Avrasya": {"x": 0, "y": 0},
+    "Pruva": {"x": 0, "y": 0},
+    "Velana": {"x": 0, "y": 0},
+    "Flador": {"x": 0, "y": 0},
+    "Astra": {"x": 0, "y": 0}
+  },
+"Hesap1": {
+    "Sancak": {"x": 0, "y": 0},
+    "Yakamoz": {"x": 0, "y": 0},
+    "Avrasya": {"x": 0, "y": 0},
+    "Pruva": {"x": 0, "y": 0},
+    "Velana": {"x": 0, "y": 0},
+    "Flador": {"x": 0, "y": 0},
+    "Astra": {"x": 0, "y": 0}
+  },
+"Hesap1": {
+    "Sancak": {"x": 0, "y": 0},
+    "Yakamoz": {"x": 0, "y": 0},
+    "Avrasya": {"x": 0, "y": 0},
+    "Pruva": {"x": 0, "y": 0},
+    "Velana": {"x": 0, "y": 0},
+    "Flador": {"x": 0, "y": 0},
+    "Astra": {"x": 0, "y": 0}
+  },
+"Hesap1": {
+    "Sancak": {"x": 0, "y": 0},
+    "Yakamoz": {"x": 0, "y": 0},
+    "Avrasya": {"x": 0, "y": 0},
+    "Pruva": {"x": 0, "y": 0},
+    "Velana": {"x": 0, "y": 0},
+    "Flador": {"x": 0, "y": 0},
+    "Astra": {"x": 0, "y": 0}
+  },
+"Hesap1": {
+    "Sancak": {"x": 0, "y": 0},
+    "Yakamoz": {"x": 0, "y": 0},
+    "Avrasya": {"x": 0, "y": 0},
+    "Pruva": {"x": 0, "y": 0},
+    "Velana": {"x": 0, "y": 0},
+    "Flador": {"x": 0, "y": 0},
+    "Astra": {"x": 0, "y": 0}
+  },
+"Hesap1": {
+    "Sancak": {"x": 0, "y": 0},
+    "Yakamoz": {"x": 0, "y": 0},
+    "Avrasya": {"x": 0, "y": 0},
+    "Pruva": {"x": 0, "y": 0},
+    "Velana": {"x": 0, "y": 0},
+    "Flador": {"x": 0, "y": 0},
+    "Astra": {"x": 0, "y": 0}
+  },
+"Hesap1": {
+    "Sancak": {"x": 0, "y": 0},
+    "Yakamoz": {"x": 0, "y": 0},
+    "Avrasya": {"x": 0, "y": 0},
+    "Pruva": {"x": 0, "y": 0},
+    "Velana": {"x": 0, "y": 0},
+    "Flador": {"x": 0, "y": 0},
+    "Astra": {"x": 0, "y": 0}
+  },
+"Hesap1": {
+    "Sancak": {"x": 0, "y": 0},
+    "Yakamoz": {"x": 0, "y": 0},
+    "Avrasya": {"x": 0, "y": 0},
+    "Pruva": {"x": 0, "y": 0},
+    "Velana": {"x": 0, "y": 0},
+    "Flador": {"x": 0, "y": 0},
+    "Astra": {"x": 0, "y": 0}
+  },
